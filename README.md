@@ -1,3 +1,5 @@
 # my-website
 
-Upadtes
+Updates
+
+For new branch
